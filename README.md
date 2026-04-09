@@ -5,16 +5,16 @@
 > metadata, links, and short excerpts used for reference. No video files are hosted here.
 > If you are the content owner and want this taken down, please open an issue.
 
----
+<!--
 channel_id: UC4a-Gbdw7vOaccHmFo40b9g
-handle: "http://www.youtube.com/@khanacademy"
-title: "Khan Academy"
+handle: http://www.youtube.com/@khanacademy
+title: Khan Academy
 url: https://www.youtube.com/@khanacademy/videos
----
+-->
 
 # Khan Academy
 
-![Khan Academy](https://yt3.googleusercontent.com/ytc/AIdro_l3GggKOWViCBpDs9APIsK6MHB2Mu-ECo5dUEU-Vay2gg=s900-c-k-c0x00ffffff-no-rj)
+<img src="https://yt3.googleusercontent.com/ytc/AIdro_l3GggKOWViCBpDs9APIsK6MHB2Mu-ECo5dUEU-Vay2gg=s900-c-k-c0x00ffffff-no-rj" alt="Khan Academy" width="120">
 
 > Khan Academy is a nonprofit providing a free, world-class education for anyone, anywhere. Our interactive practice problems, articles, and videos help students succeed in math, biology, chemistry, physics, history, economics, finance, grammar, and many other topics.
 > 
