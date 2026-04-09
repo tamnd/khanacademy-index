@@ -1,4 +1,4 @@
-# Khan Academy — Videos
+# Videos
 
 [← Back to channel](../README.md)
 
