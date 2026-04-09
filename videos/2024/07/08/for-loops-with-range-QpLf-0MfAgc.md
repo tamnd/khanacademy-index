@@ -1,0 +1,53 @@
+---
+video_id: QpLf-0MfAgc
+title: "for loops with range() | Intro to CS - Python | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 4:23
+date: 2024-07-08T22:08:30-07:00
+views: 9611
+likes: 172
+url: https://www.youtube.com/watch?v=QpLf-0MfAgc
+---
+
+# for loops with range() | Intro to CS - Python | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/QpLf-0MfAgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTBWasWbFlt3uXWA3pYQrP2uTdnw)](https://www.youtube.com/watch?v=QpLf-0MfAgc)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2024-07-08T22:08:30-07:00 |
+| **Duration** | 4:23 |
+| **Views** | 9.6K |
+| **Likes** | 172 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=QpLf-0MfAgc) |
+
+## Description
+
+Learn how to use for loops with range() to repeat a block of code a fixed number times. Trace how the computer updates the loop variable during execution.
+
+View the program used in this video at: https://www.khanacademy.org/python-program/for-loops/5699608135516160
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now with our Intro to Computer Science - Python course!
+
+Course link: https://www.khanacademy.org/computing/intro-to-python-fundamentals/x5279a44ae0ab15d6:simulating-phenomena-with-loops
+Course playlist: https://www.youtube.com/playlist?list=PLSQl0a2vh4HDkbhG0sDW0b-VZXykEIAe5
+
+Khan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more. We provide teachers with tools and data so they can help their students develop the skills, habits, and mindsets for success in school and beyond. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! 
+
+Donate or volunteer today! Donate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc 
+
+Volunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc
+
+TIMESTAMPS:
+00:00 - 01:05 : while loop vs. for loop syntax
+01:06 - 01:57 : the range() function
+01:58 - 03:15 : tracing for loop execution
+03:16 - 03:41 : changing the start value
+03:42 - 04:22 : when to use while loops
+
+## Tags
+
+`online learning` `online class` `video class` `video tutorial` `online education` 
+

@@ -1,0 +1,46 @@
+---
+video_id: jQN07Hvq6WI
+title: "Passive transport and selective permeability | Biology | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 6:59
+date: 2015-07-31T09:08:42-07:00
+views: 206282
+likes: 951
+url: https://www.youtube.com/watch?v=jQN07Hvq6WI
+---
+
+# Passive transport and selective permeability | Biology | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/jQN07Hvq6WI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqbrzzRlGnl_H_uB9EqbWd5aNiRw)](https://www.youtube.com/watch?v=jQN07Hvq6WI)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2015-07-31T09:08:42-07:00 |
+| **Duration** | 6:59 |
+| **Views** | 206.3K |
+| **Likes** | 951 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=jQN07Hvq6WI) |
+
+## Description
+
+Passive transport and selective permeability. Passive transport through diffusion.
+
+Watch the next lesson: https://www.khanacademy.org/science/biology/membranes-and-transport/passive-transport/v/facilitated-diffusion?utm_source=YT&utm_medium=Desc&utm_campaign=biology
+
+Missed the previous lesson? https://www.khanacademy.org/science/biology/membranes-and-transport/diffusion-and-osmosis/v/diffusion-and-osmosis?utm_source=YT&utm_medium=Desc&utm_campaign=biology
+
+Biology on Khan Academy: Life is beautiful! From atoms to cells, from genes to proteins, from populations to ecosystems, biology is the study of the fascinating and intricate systems that make life possible. Dive in to learn more about the many branches of biology and why they are exciting and important. Covers topics seen in a high school or first-year college biology course.
+
+About Khan Academy: Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.
+
+For free. For everyone. Forever. #YouCanLearnAnything
+
+Subscribe to Khan Academy's Biology channel: https://www.youtube.com/channel/UC82qE46vcTn7lP4tK_RHhdg?sub_confirmation=1
+Subscribe to Khan Academy: https://www.youtube.com/subscription_center?add_user=khanacademy
+
+## Tags
+
+`online learning` `lessons` `learning` `passive transport` `diffusion` `dotsub` `concentration gradient` `education` `selective permeability` 
+

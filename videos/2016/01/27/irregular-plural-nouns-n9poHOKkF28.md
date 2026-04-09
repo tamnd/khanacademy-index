@@ -1,0 +1,48 @@
+---
+video_id: n9poHOKkF28
+title: "Irregular plural nouns | words that end in -en | Grammar | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 7:23
+date: 2016-01-27T15:30:33-08:00
+views: 525301
+likes: 2265
+url: https://www.youtube.com/watch?v=n9poHOKkF28
+---
+
+# Irregular plural nouns | words that end in -en | Grammar | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/n9poHOKkF28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvZ0PdVpPJWf5WS60Rz5WWy164PA)](https://www.youtube.com/watch?v=n9poHOKkF28)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2016-01-27T15:30:33-08:00 |
+| **Duration** | 7:23 |
+| **Views** | 525.3K |
+| **Likes** | 2.3K |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=n9poHOKkF28) |
+
+## Description
+
+The plural of "whale" is "whales", but what's the plural of "child"? David, Khan Academy's resident grammarian, explains.
+
+Practice this yourself on Khan Academy right now: https://www.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/irregular-plural-nouns---en?utm_source=YT&utm_medium=Desc&utm_campaign=grammar
+
+Watch the next lesson: https://www.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/v/irregular-plurals-the-base-plural?utm_source=YT&utm_medium=Desc&utm_campaign=grammar
+
+Missed the previous lesson? https://www.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/v/irregular-plural-nouns-part-i-the-parts-of-speech-grammar-khan-academy?utm_source=YT&utm_medium=Desc&utm_campaign=grammar
+
+Grammar on Khan Academy: Grammar is the collection of rules and conventions that make languages go. This section is about Standard American English, but there's something here for everyone.
+
+About Khan Academy: Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.
+
+For free. For everyone. Forever. #YouCanLearnAnything
+
+Subscribe to Khan Academy’s Grammar channel: https://www.youtube.com/channel/UC8JT97hQjMVWeO0B-x8eVxQ?sub_confirmation=1
+Subscribe to Khan Academy: https://www.youtube.com/subscription_center?add_user=khanacademy
+
+## Tags
+
+`education` `online learning` `learning` `lessons` `singular` `irregular plural` `en ending` `children` `childs` 
+

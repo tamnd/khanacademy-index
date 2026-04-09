@@ -1,0 +1,50 @@
+---
+video_id: vspcKkcLuuA
+title: "Worked example: p-series | Series | AP Calculus BC | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 2:54
+date: 2016-12-15T17:47:25-08:00
+views: 65947
+likes: 87
+url: https://www.youtube.com/watch?v=vspcKkcLuuA
+---
+
+# Worked example: p-series | Series | AP Calculus BC | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/vspcKkcLuuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh0ZWoGGQeHFlwua2d0PbxwlZN_A)](https://www.youtube.com/watch?v=vspcKkcLuuA)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2016-12-15T17:47:25-08:00 |
+| **Duration** | 2:54 |
+| **Views** | 65.9K |
+| **Likes** | 87 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=vspcKkcLuuA) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now:  https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-5/v/p-series-convergence
+
+See how the integral test is put to use in determining whether a sequence converges or diverges.
+
+Practice this lesson yourself on KhanAcademy.org right now: https://www.khanacademy.org/math/ap-calculus-bc/bc-series/bc-basic-conv-tests/e/p-series?utm_source=YT&utm_medium=Desc&utm_campaign=APCalculusBC 
+
+Watch the next lesson: https://www.khanacademy.org/math/ap-calculus-bc/bc-series/bc-comparison-tests/v/comparison-test?utm_source=YT&utm_medium=Desc&utm_campaign=APCalculusBC
+
+Missed the previous lesson? https://www.khanacademy.org/math/ap-calculus-bc/bc-series/bc-basic-conv-tests/v/integral-test-divergence?utm_source=YT&utm_medium=Desc&utm_campaign=APCalculusBC
+
+AP Calculus BC on Khan Academy: Learn AP Calculus BC - everything from AP Calculus AB plus a few extra goodies, such as Taylor series, to prepare you for the AP Test
+
+About Khan Academy: Khan Academy is a nonprofit with a mission to provide a free, world-class education for anyone, anywhere. We believe learners of all ages should have unlimited access to free educational content they can master at their own pace. We use intelligent software, deep data analytics and intuitive user interfaces to help students and teachers around the world. Our resources cover preschool through early college education, including math, biology, chemistry, physics, economics, finance, history, grammar and more. We offer free personalized SAT test prep in partnership with the test developer, the College Board. Khan Academy has been translated into dozens of languages, and 100 million people use our platform worldwide every year. For more information, visit www.khanacademy.org, join us on Facebook or follow us on Twitter at @khanacademy. And remember, you can learn anything. 
+
+For free. For everyone. Forever. #YouCanLearnAnything
+
+Subscribe to Khan Academy's AP Calculus BC channel: https://www.youtube.com/channel/UC5A2DBjjUVNz8axD-90jdfQ?sub_confirmation=1
+Subscribe to Khan Academy: https://www.youtube.com/subscription_center?add_user=khanacademy
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+

@@ -1,0 +1,43 @@
+---
+video_id: uIjSx1c1HKQ
+title: "Judicial activism and judicial restraint | US government and civics | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 8:18
+date: 2018-03-15T12:28:55-07:00
+views: 81860
+likes: 563
+url: https://www.youtube.com/watch?v=uIjSx1c1HKQ
+---
+
+# Judicial activism and judicial restraint | US government and civics | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/uIjSx1c1HKQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo7ydCo3w872aPaWOEYZH0ZU76LQ)](https://www.youtube.com/watch?v=uIjSx1c1HKQ)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2018-03-15T12:28:55-07:00 |
+| **Duration** | 8:18 |
+| **Views** | 81.9K |
+| **Likes** | 563 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=uIjSx1c1HKQ) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now: https://www.khanacademy.org/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-checks-on-the-judicial-branch/v/judicial-activism-vs-judicial-restraint
+
+Using Baker v. Carr to discuss judicial activism versus judicial restraint.
+
+View more lessons or practice this subject at https://www.khanacademy.org/humanities/ap-us-government-and-politics/interactions-among-branches-of-government/checks-on-the-judicial-branch/v/judicial-activism-vs-judicial-restraint?utm_source=youtube&utm_medium=desc&utm_campaign=usgovernmentandcivics
+
+Khan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more. We provide teachers with tools and data so they can help their students develop the skills, habits, and mindsets for success in school and beyond. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! Donate or volunteer today! 
+
+Donate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc
+
+Volunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+

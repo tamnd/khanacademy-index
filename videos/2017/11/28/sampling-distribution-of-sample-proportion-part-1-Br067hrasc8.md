@@ -1,0 +1,45 @@
+---
+video_id: Br067hrasc8
+title: "Sampling distribution of sample proportion part 1 | AP Statistics | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 9:57
+date: 2017-11-28T12:08:14-08:00
+views: 199350
+likes: 999
+url: https://www.youtube.com/watch?v=Br067hrasc8
+---
+
+# Sampling distribution of sample proportion part 1 | AP Statistics | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/Br067hrasc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4bq6F_oIooecwrNpYRFDwh5LLtA)](https://www.youtube.com/watch?v=Br067hrasc8)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2017-11-28T12:08:14-08:00 |
+| **Duration** | 9:57 |
+| **Views** | 199.3K |
+| **Likes** | 999 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=Br067hrasc8) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now:  https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/sampling-distribution-proportion/v/sampling-distribution-of-sample-proportion-part-1
+
+Formulas for the mean and standard deviation of a sampling distribution of sample proportions.
+
+View more lessons or practice this subject at http://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/sampling-distribution-proportion/v/sampling-distribution-of-sample-proportion-part-1?utm_source=youtube&utm_medium=desc&utm_campaign=apstatistics
+
+AP Statistics on Khan Academy: Meet one of our writers for AP¨_ Statistics, Jeff. A former high school teacher for 10 years in Kalamazoo, Michigan, Jeff taught Algebra 1, Geometry, Algebra 2, Introductory Statistics, and AP¨_ Statistics. Today he's hard at work creating new exercises and articles for AP¨_ Statistics.
+
+Khan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more. We provide teachers with tools and data so they can help their students develop the skills, habits, and mindsets for success in school and beyond. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! Donate or volunteer today! 
+
+Donate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc
+
+Volunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+

@@ -1,0 +1,43 @@
+---
+video_id: rn_C25fPOVw
+title: "Free body diagram with angled forces: worked example | AP Physics 1 | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 5:43
+date: 2018-03-26T16:12:34-07:00
+views: 37086
+likes: 260
+url: https://www.youtube.com/watch?v=rn_C25fPOVw
+---
+
+# Free body diagram with angled forces: worked example | AP Physics 1 | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/rn_C25fPOVw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlh4TgqdWYsWEI1KiUi3UnxBtUCA)](https://www.youtube.com/watch?v=rn_C25fPOVw)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2018-03-26T16:12:34-07:00 |
+| **Duration** | 5:43 |
+| **Views** | 37.1K |
+| **Likes** | 260 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=rn_C25fPOVw) |
+
+## Description
+
+Sal draws a free body diagram for a box held stationary against a wall with a force at an angle theta.
+
+View more lessons or practice this subject at https://www.khanacademy.org/science/ap-physics-1/ap-forces-newtons-laws/angled-forces-ap/v/free-body-diagram-with-angled-forces-worked-example?utm_source=youtube&utm_medium=desc&utm_campaign=apphysics1
+
+AP Physics 1 on Khan Academy: Meet one of our writers for AP¨_ Physics, Sean. A physics teacher for seven years, Sean has taught AP¨_ Physics 1, AP¨_ Physics C, and Conceptual Physics. HeÕs also a former mechanical engineer. Sean is based in Boise, Idaho, and is a Khan Academy physics fellow, creating awesome new exercises and articles for AP¨_ Physics.
+
+Khan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more. We provide teachers with tools and data so they can help their students develop the skills, habits, and mindsets for success in school and beyond. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! Donate or volunteer today! 
+
+Donate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc
+
+Volunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+

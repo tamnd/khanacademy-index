@@ -1,0 +1,43 @@
+---
+video_id: RoEZkrDWqmc
+title: "2015 AP Chemistry free response 5a: Finding order of reaction | Chemistry | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 6:51
+date: 2016-04-28T16:10:17-07:00
+views: 12564
+likes: 42
+url: https://www.youtube.com/watch?v=RoEZkrDWqmc
+---
+
+# 2015 AP Chemistry free response 5a: Finding order of reaction | Chemistry | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/RoEZkrDWqmc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr0DSazOkH48rRHmRCFBqJa5_Smw)](https://www.youtube.com/watch?v=RoEZkrDWqmc)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2016-04-28T16:10:17-07:00 |
+| **Duration** | 6:51 |
+| **Views** | 12.6K |
+| **Likes** | 42 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=RoEZkrDWqmc) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now:  https://www.khanacademy.org/science/chemistry/studying-for-ap-chemistry-exam/2015-ap-chemistry-free-response-questions/v/ap-2015-question-5a
+
+Finding the order of reaction based on graphs of absorbance, ln(absorbance) and 1/(absorbance) vs. time for kinetics of bleaching food coloring. An alternative method of solving 2015 AP Chemistry free response 5a.
+
+View more lessons or practice this subject at https://www.khanacademy.org/science/chemistry/studying-for-ap-chemistry-exam/2015-ap-chemistry-free-response-questions/v/ap-2015-question-5a?utm_source=youtube&utm_medium=desc&utm_campaign=chemistry
+
+Khan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more. We provide teachers with tools and data so they can help their students develop the skills, habits, and mindsets for success in school and beyond. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! Donate or volunteer today! 
+
+Donate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc
+
+Volunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+

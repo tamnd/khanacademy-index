@@ -1,0 +1,43 @@
+---
+video_id: lCK77MI7cT4
+title: "Miranda v. Arizona | Civil liberties and civil rights | US government and civics | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 15:18
+date: 2018-05-01T14:42:24-07:00
+views: 21322
+likes: 174
+url: https://www.youtube.com/watch?v=lCK77MI7cT4
+---
+
+# Miranda v. Arizona | Civil liberties and civil rights | US government and civics | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/lCK77MI7cT4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUoE7JOpznmZM017W7zfolAR-qg)](https://www.youtube.com/watch?v=lCK77MI7cT4)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2018-05-01T14:42:24-07:00 |
+| **Duration** | 15:18 |
+| **Views** | 21.3K |
+| **Likes** | 174 |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=lCK77MI7cT4) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now:  https://www.khanacademy.org/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/miranda-v-arizona
+
+A deep dive into Miranda v. Arizona, a Supreme Court case decided in 1966. This case established the "Miranda rule," which requires police to inform suspects in police custody of their rights.
+
+In this video, Kim Kutz Elliott discusses the case with scholars Paul Cassell and Jeffrey Rosen.
+
+To read more about constitutional law, visit the website of the National Constitution Center. On this site, leading scholars interact and explore the Constitution and its history. For each provision of the Constitution, experts from different political perspectives coauthor interpretive explanations when they agree and write separately when their opinions diverge.
+
+View more lessons or practice this subject at https://www.khanacademy.org/humanities/ap-us-government-and-politics/civil-liberties-and-civil-rights/due-process-rights-of-accused/v/miranda-v-arizona?utm_source=youtube&utm_medium=desc&utm_campaign=usgovernmentandcivics
+
+Khan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more. We provide teachers with tools and data so they can help their students develop the skills, habits, and mindsets for success in school and beyond. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! Donate or volunteer today! 
+
+Donate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc
+
+Volunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc
+

@@ -1,0 +1,50 @@
+---
+video_id: NvGBug8iORE
+title: "Commas and introductory elements | Punctuation | Grammar | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 4:35
+date: 2016-06-06T17:17:08-07:00
+views: 312867
+likes: 1161
+url: https://www.youtube.com/watch?v=NvGBug8iORE
+---
+
+# Commas and introductory elements | Punctuation | Grammar | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/NvGBug8iORE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-APZv9Jao3x_S1tIPkpw830aSQ)](https://www.youtube.com/watch?v=NvGBug8iORE)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2016-06-06T17:17:08-07:00 |
+| **Duration** | 4:35 |
+| **Views** | 312.9K |
+| **Likes** | 1.2K |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=NvGBug8iORE) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now:  https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe/commas-in-space-and-time/v/commas-and-introductory-elements-the-comma-punctuation-khan-academy
+
+In English, you use commas to separate introductory elements from the rest of a sentence. Find out how with David and Paige! 
+
+Practice this yourself on Khan Academy right now: https://www.khanacademy.org/humanities/grammar/punctuation/the-comma/e/commas-and-introductory-elements?utm_source=YT&utm_medium=Desc&utm_campaign=grammar
+
+Watch the next lesson: https://www.khanacademy.org/humanities/grammar/punctuation/the-comma/v/punctuating-a-list-commas-punctuation-khan-academy?utm_source=YT&utm_medium=Desc&utm_campaign=grammar
+
+Missed the previous lesson? https://www.khanacademy.org/humanities/grammar/punctuation/the-comma/v/commas-in-space-and-time-the-comma-punctuation-khan-academy?utm_source=YT&utm_medium=Desc&utm_campaign=grammar
+
+Grammar on Khan Academy: Grammar is the collection of rules and conventions that make languages go. This section is about Standard American English, but there's something here for everyone.
+
+About Khan Academy: Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.
+
+For free. For everyone. Forever. #YouCanLearnAnything
+
+Subscribe to Khan Academy’s Grammar channel: https://www.youtube.com/channel/UC8JT97hQjMVWeO0B-x8eVxQ?sub_confirmation=1
+Subscribe to Khan Academy: https://www.youtube.com/subscription_center?add_user=khanacademy
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+

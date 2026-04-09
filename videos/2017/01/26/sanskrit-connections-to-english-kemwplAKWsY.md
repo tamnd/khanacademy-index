@@ -1,0 +1,47 @@
+---
+video_id: kemwplAKWsY
+title: "Sanskrit connections to English | World History | Khan Academy"
+channel: "Khan Academy"
+channel_id: UC4a-Gbdw7vOaccHmFo40b9g
+duration: 9:30
+date: 2017-01-26T18:53:54-08:00
+views: 301648
+likes: 4088
+url: https://www.youtube.com/watch?v=kemwplAKWsY
+---
+
+# Sanskrit connections to English | World History | Khan Academy
+
+[![Thumbnail](https://i.ytimg.com/vi/kemwplAKWsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlU2P8SfEeF0NZKdtSeM-8gK-b_w)](https://www.youtube.com/watch?v=kemwplAKWsY)
+
+| | |
+|---|---|
+| **Channel** | [Khan Academy](../../../../README.md) |
+| **Published** | 2017-01-26T18:53:54-08:00 |
+| **Duration** | 9:30 |
+| **Views** | 301.6K |
+| **Likes** | 4.1K |
+| **YouTube** | [Watch](https://www.youtube.com/watch?v=kemwplAKWsY) |
+
+## Description
+
+Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now:  https://www.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-india/v/sanskrit-connections-to-english
+
+How Sanskrit is connected to Latin, English and other European languages.
+
+Watch the next lesson: https://www.khanacademy.org/humanities/world-history/history-beginnings/ancient-india/v/hinduism-introduction-core-ideas-of-brahman-atman-samsara-and-moksha
+
+Missed the previous lesson? Watch here: https://www.khanacademy.org/humanities/world-history/history-beginnings/ancient-india/v/introduction-to-the-vedic-period
+
+World History on Khan Academy: From the earliest civilizations to the modern world, geography, religion, trade, and politics have bound peoples and nations together — and torn them apart. Take a journey through time and space and discover the fascinating history behind the complex world we inhabit today.
+
+About Khan Academy: Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.
+
+For free. For everyone. Forever. #YouCanLearnAnything
+
+Subscribe to KhanAcademy: https://www.youtube.com/subscription_center?add_user=khanacademy
+
+## Tags
+
+`education` `online learning` `learning` `lessons` 
+
